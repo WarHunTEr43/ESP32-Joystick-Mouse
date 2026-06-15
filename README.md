@@ -3,10 +3,10 @@ A simple Script for a homemade joystick mouse, made using [ESP32-BLE-Mouse lib][
 
 # Functionality:
 
-Joystick mimics the cursor (Pretty straightforward)
-Pressing the Joystick button: LEFT MOUSE BUTTON
-Holding the Joystick button: RIGHT MOUSE BUTTON
-Double pressing the Joystick button: Switches into scroll mode, pressing it twice again turns of the scroll mode
+- Joystick mimics the cursor (Pretty straightforward)
+- Pressing the Joystick button: LEFT MOUSE BUTTON
+- Holding the Joystick button: RIGHT MOUSE BUTTON
+- Double pressing the Joystick button: Switches into scroll mode, pressing it twice again turns of the scroll mode
 
 # Currently used pins:
 - Joystick X axis = 36
